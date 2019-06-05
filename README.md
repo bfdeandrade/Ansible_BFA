@@ -1,2 +1,2 @@
 # Ansible_BFA
-Collection of Ansible Recipes to fast deploy of common services
+Collection of Ansible Recipes to fast deploy of common services and OS
